@@ -95,15 +95,7 @@
         <input type="password" name="password" placeholder=" Set Password" required>
         <label>Already have an account? <a href="koneksi.php"><u>Login</u></a></label><br><br>
         <input type="submit" name="login" value="Continue" />
-        <div class="line-container">
-            <hr>
-                <span>or</span>
-            <hr>
-        </div>
-        <div class="google-button">
-            <img src="google.png" alt="Google logo">
-                Sign in with Google
-        </div>
+        
     </form>
 
 <?
