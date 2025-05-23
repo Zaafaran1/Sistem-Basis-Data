@@ -93,7 +93,7 @@
     <form method="POST" action="">
         <input type="text" name="Email" placeholder="Email" required> <br>
         <input type="password" name="password" placeholder=" Set Password" required>
-        <label>Already have an account? <a href="koneksi.php"><u>Login</u></a></label><br><br>
+        <label>Already have an account? <a href="koneksi.php"><u>Register</u></a></label><br><br>
         <input type="submit" name="login" value="Continue" />
         
     </form>
